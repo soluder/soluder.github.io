@@ -8,13 +8,25 @@
   "description": "blog of Eddy",
   "version": "1.0.0",
   "dependencies": {
-    "iview": "^3.2.2",
-    "vuepress": "^1.0.0-alpha.32"
+    "iview": "^3.2.2"
   },
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.0.0-alpha.0",
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
     "@vuepress/plugin-blog": "^1.0.0-alpha.0",
-    "moment": "^2.23.0"
-  }
+    "moment": "^2.23.0",
+    "vuepress": "^1.9.9"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soluder/soluder.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soluder/soluder.github.io/issues"
+  },
+  "homepage": "https://github.com/soluder/soluder.github.io#readme"
 }
