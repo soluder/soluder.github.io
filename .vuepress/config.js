@@ -2,6 +2,7 @@ module.exports = {
     dest: 'public',
     title: 'Blog of Eddy',
     description: '不忘初心 方得始终 砥砺前行 终达彼岸',
+    base: '/soluder.github.io/',
     head: [
         ['link', { rel: 'icon', href: '/img/logo.jpg' }],
         // ['link', { rel: 'manifest', href: '/manifest.json' }],
