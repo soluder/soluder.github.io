@@ -14,8 +14,8 @@ sidebar: auto
 &emsp;&emsp;因为爱好编程，所以自学编程。欢迎一同探讨技术！
 兴趣是最好的老师，虽然这句话都被说烂了，不过的确是真理。常用语言Java、Python、Kotlin，熟悉C/C++、C#、服务器环境搭建等技术。
 ## 联系方式     
-+ Name: 崔诗新 Eddy Cui  
-+ Tel: 15224258322    
-+ QQ: 929609968   
-+ WeChat: 15224258322     
-+ E-Mail: 929609968@qq.com / a929609968@gmail.com
++ Name: 雪下逢春  
++ Tel: 18204840695    
++ QQ: 2482459310 
++ WeChat: 18204840695    
++ E-Mail: 2482459310@qq.com 

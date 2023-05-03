@@ -4,8 +4,8 @@
     "build": "vuepress build .",
     "deploy": "bash deploy.sh"
   },
-  "name": "blooddark.github.io",
-  "description": "blog of Eddy",
+  "name": "soluder.github.io",
+  "description": "blog of 雪下逢春",
   "version": "1.0.0",
   "dependencies": {
     "iview": "^3.2.2"
